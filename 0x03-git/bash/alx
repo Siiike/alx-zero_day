@@ -1,2 +1,7 @@
+update_script
+#!/bin/bash
 echo ALX School
-echo ALX School
+
+#!/bin/bash
+echo ALX School is so cool!
+ master
